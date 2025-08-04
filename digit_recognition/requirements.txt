@@ -1,0 +1,6 @@
+digit_recognition
+├── data
+├── digit_recognition.ipynb
+├── .gitignore
+├── requirements.txt
+└── README.md
