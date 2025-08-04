@@ -7,7 +7,7 @@ This project implements a digit recognition model using PyTorch and the MNIST da
 To set up the project, clone the repository and install the required packages:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Ryanike1022/Digit_Recognition.git>
 cd digit_recognition
 pip install -r requirements.txt
 ```
